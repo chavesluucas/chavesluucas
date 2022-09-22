@@ -5,7 +5,7 @@
 
 - 🙅‍♂️ Tenho 23 anos
 - 🏙️ Sou nascido e criado em Blumenau - SC
-- 🔭 Atualmente estou em busca de uma oportunidade como front-end junior
+- 🔭 Atualmente estou trabalhando como Desenvolvedor JAVA Jr na empresa Senior Sistemas
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc
 - 🧑‍💻 Estou focado em me tornar um grande desenvolvedor front-end
 - 🚀 Sou aluno da RocketSeat
