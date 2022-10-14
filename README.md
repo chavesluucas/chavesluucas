@@ -6,9 +6,7 @@
 - 🙅‍♂️ Tenho 23 anos
 - 🏙️ Sou nascido e criado em Blumenau - SC
 - 🔭 Atualmente estou trabalhando como Desenvolvedor JAVA Jr na empresa Senior Sistemas
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc
-- 🧑‍💻 Estou focado em me tornar um grande desenvolvedor front-end
-- 🚀 Sou aluno da RocketSeat
+- 🧑‍💻 Estou focado em me tornar um grande desenvolvedor
 - 👾 Fiz um site em formato de feed de rede social (nas aulas da RocketSeat) com informações minhas para você me conhecer melhor!
 - 🛸 [Meu Site](https://lucaschaves.tech)
 
