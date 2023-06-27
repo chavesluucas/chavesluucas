@@ -3,7 +3,7 @@
 </div>
 <h4> 🗺️ Um pouco sobre mim: </h4>
 
-- 🙅‍♂️ Tenho 23 anos
+- 🙅‍♂️ Tenho 24 anos
 - 🏙️ Sou nascido e criado em Blumenau - SC
 - 🔭 Atualmente estou trabalhando como Desenvolvedor JAVA Jr na empresa Senior Sistemas
 - 🧑‍💻 Estou focado em me tornar um grande desenvolvedor
