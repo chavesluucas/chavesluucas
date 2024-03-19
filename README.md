@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou trabalhando como Desenvolvedor JAVA Jr na empresa Senior Sistemas
 - 🧑‍💻 Estou focado em me tornar um grande desenvolvedor
 - 👾 Fiz um site em formato de feed de rede social (nas aulas da RocketSeat) com informações minhas para você me conhecer melhor!
-- 🛸 [Meu Site](https://lucaschaves.tech)
+- 🛸 [Meu Site](https://lucas-chaves.netlify.app)
 
 ##
 ### ⌨️ Tecnologias
